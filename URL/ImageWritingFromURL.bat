@@ -1,0 +1,2 @@
+call javac ImageWritingFromURL.java
+call java ImageWritingFromURL
