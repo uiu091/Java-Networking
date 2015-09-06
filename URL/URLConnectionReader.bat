@@ -1,0 +1,2 @@
+call javac URLConnectionReader.java
+call java URLConnectionReader
